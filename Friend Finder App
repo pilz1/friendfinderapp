@@ -1,0 +1,18 @@
+Friend Finder App
+
+--FrontEnd
+1. Create an HTML boilerplate to hold the questions and create basic Jquery functions to hold the answers in an array.
+
+2. Create a GET and POST request to get names from the server and be able to create the appropiate match. 
+
+3. Attach the GET and POST function to the submit button on the questionnaire, so as soon as on person has finished it the data will be logged to the server.
+
+
+--Backend
+1. Setup a server through npm packages on node.
+
+2. Get the html routes to display the data on the html page and then send them back to the server once the user has input the data.
+
+3. Once the user has inputted the data it should be displayed in tables of objects created to store all of this data.
+
+4. Run express.js to establish the connection between the html and the server for it to work together.
